@@ -27,7 +27,7 @@ Configurações utilizadas:
 
 	2 - Pelo próprio terminal do Atom (este precisa configurar o terminal do Atom para que abra sempre com o cmd e não o powershell)
 
-	Passos para configurar o CMD de modo que sempre execute no modo administrador:
+	Passos para configurar o CMD para que sempre execute no modo administrador:
 	1 - Digitar no menu iniciar do windows "cmd"
 	2 - Clicar na opção "abrir local do arquivo"
 	3 - Clicar com botão direito sobre o icone do CMD/Prompt de Comando
